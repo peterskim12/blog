@@ -1,0 +1,28 @@
+---
+layout: post
+title: Is NYC worth it?
+date: '2013-03-24T14:55:49-04:00'
+tags: []
+tumblr_url: http://peterskim.tumblr.com/post/46180813339/is-nyc-worth-it
+---
+New York City is the most expensive place to live in America and in the past, I would have emphatically said “Yes!” if asked whether the high cost of living is worth it. Life is more than about having all your ducks in a row… it may seem cliche but New York really is where people come to pursue their dreams and there’s really no place else where you can experience this kind of energy, ambition, and passion.
+
+If you’re single without children, you’re most likely only responsible for yourself. This is a perfect time to experience life to the fullest and New York is a great place to do that. 
+
+If you’re married with no kids, it’s a great time in your life. You still have no one you’re responsible for besides each other. You are most likely both working and can take advantage of economies of scale (over being single) in combining your incomes and sharing expenses. New York is still a great place to be. Your salary will likely be higher than in New York than other parts of the country and you can live in a studio or 1 BR while hopefully having money left over to enjoy all that the city offers. 
+
+If you’re married with one child, you can probably stay in that 1 bedroom apartment or move into a small 2 bedroom. You get an additional tax exemption and adding one kid to your life isn’t really that expensive. If the mother continues to work, it’s just one child’s day care you pay for. 1 bedroom apartments in New York City are still plentiful.
+
+I think the cost of living really starts to go up significantly once you have the 2nd child and especially if you have more. The more children you have, the more space you need. With 2 kids, ideally you’d want a reasonably sized 2 bedroom or even a 3 bedroom apartment. Depending on the salary of the lower-paid spouse, paying for two or more kids’ day care or pre-school may eat up a lot or all of that paycheck.
+
+How much does a reasonably sized 2 or 3BR apartment in New York City cost? In the “desirable” part of Manhattan (aka south of 96th Street), a reasonable 2 BR apartment will run you at least $3200 per month but in many cases, more like $3500 or $4000 and much more in the trendier neighborhoods. Using the rule of thumb that your gross income should be at least 40x your monthly rent, you need to make at least $128,000 to $160,000 to afford that apartment. The “desirable” parts of Brooklyn are not much cheaper. In fact, recent articles have been published about how Brooklynites are moving back to Manhattan because parts of Manhattan are actually cheaper now! The “nice” parts of Queens have also become incredibly expensive. Astoria, which is the neighborhood we’ve lived in our entire time in New York, used to be the “cheap” decent place to live but we’re finding that we’d have to pay $2500-3000 per month to get the type of 2 or 3 bedroom apartment we’re looking for — and no, we’re not looking for luxury buildings with tons of amenities. Just something with a decent size and a dishwasher that isn’t a walk-up.
+
+One challenge with finding a 2 or 3 bedroom apartment as a single-income based family is that the vast majority of your competition in New York consists of groups of singles sharing the apartment. How can a family with one income earner compete against three individuals, each with jobs and no responsibilities? Also this market is just getting more competitive as people continue to delay marriage — you have people going into their 30s and 40s still single and sharing apartments.
+
+This is where my friends who have moved to the suburbs will say “I told you so.” I understand their perspective and when you really value space, it’s hard to argue against just moving to the suburbs where space is plentiful. However, I still believe the city is the best place to raise children — walkable lifestyle leading to better health, exposure to other cultures, living in public versus private sphere, access to cultural institutions like museums, zoos, etc. The challenge is figuring out how to make it work financially.
+
+I write all this as someone who grew up in the city. I grew up on the north side of Chicago — and by that, I don’t mean Lincoln Park or one of the trendier neighborhoods. For most of my upbringing, we lived in a medium sized one bedroom apartment in a middle class neighborhood called Rogers Park. We had all three beds — a twin for me, a full for my parents and a twin for my sister — put together side by side. My mom was ashamed of our living situation. I remember wanting to invite my friends from school over to our apartment but she refused because of the shame she felt. I didn’t understand at the time — for me, this living situation was “normal” and I don’t ever remember feeling ashamed of it or wanting to live in a house.
+
+So for people who really want to make it work in the city, it’s possible. You can cram yourself and all your kids into a 1 bedroom apartment and honestly, everyone will probably turn out just fine, just like me. :) Or you could move further out in the boroughs. In the end, I think it really depends on what the parents want for themselves.
+
+I’m at a point where I’ve accepted that I don’t have to live in New York City to be happy. I still want to be in the metro area because I think it’s the best for my career. And I still want to live in a walkable, non-car-dependent neighborhood that has nice parks, playgrounds, cafes, restaurants, etc. It just doesn’t have to be New York City anymore. I’ll let you all know if I find this magical place that has everything I want in life.
