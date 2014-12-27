@@ -14,5 +14,5 @@ Instead of giving into the notion that my actions won't make a difference, what 
 * What if that many more people set their thermostat a few degrees off to save energy? 
 * What if that many more people exchanged an hour a week of watching TV with reading a book or a newspaper?
 
-It's tempting to think our own actions don't matter. I believe the way we choose to live our lives matter. It has an impact both on us personally and also the world far beyond us. Let's stop looking to "heroes" to fix the world's problems and ask just a little bit more from ordinary people like ourselves.
+It's tempting to think our own actions don't matter. I believe the way we choose to live our lives matters. It has an impact both on us personally and also the world far beyond us. Let's stop looking to "heroes" to fix the world's problems and ask just a little bit more from ordinary people like ourselves.
 
