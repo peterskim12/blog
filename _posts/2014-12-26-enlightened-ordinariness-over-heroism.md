@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Enlightened Ordinariness over Heroics
+title: An Enlightened Ordinariness over Heroism
 tags: [life]
 ---
 
