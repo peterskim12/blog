@@ -8,4 +8,5 @@ github_username: peterskim12
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 permalink: pretty
