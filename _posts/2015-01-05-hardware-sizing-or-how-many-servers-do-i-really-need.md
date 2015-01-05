@@ -17,7 +17,7 @@ You can run a legitimate Elasticsearch deployment with just 1 server or 200 serv
 
 So in response to the question, "How much hardware will I need to run Elasticsearch?", the answer is always, "It depends."
 
-One element of this discussion involves figuring out the amount of disk required. For this blog post, I'll focus on the centralized logging use case. 
+For this blog post, I'll focus on one element of hardware sizing: figuring out the amount of disk required. Also, I'll be using log data as my test data. 
 
 # Indexing logs, a million different ways
 
@@ -109,6 +109,6 @@ Finally, the last area of focus is the impact of doc values. Looking at two mapp
 
 # Conclusion
 
-There are a lot of misconceptions out there about how much disk space an ELK-based solution requires but hopefully this blog post sheds some light on how the reality is that "it depends". 
+There are a lot of misconceptions out there about how much disk space an ELK-based solution requires but hopefully this blog post sheds some light on how the reality is that "it depends". Also, figuring out how much hardware you need involves much more than just how much disk is required. We'll save those discussions for future blog posts. :)
 
 You can find the files supporting this testing on Github here: [https://github.com/peterskim12/elk-index-size-tests](https://github.com/peterskim12/elk-index-size-tests).
