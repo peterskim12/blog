@@ -4,7 +4,10 @@ title: Hardware sizing or "How many servers do I *really* need?"
 tags: [elasticsearch]
 ---
 
-# Sales engineering and hardware sizing #
+# Hardware sizing for storage
+
+![expanding_illusion](/images/expanding.gif)![shrinking_illusion](/images/shrinking.gif) 
+_Is my data going to get bigger or smaller? Image credit: [amazingillusions.blogspot.com](http://amazingillusions.blogspot.com/2007/07/expanding-and-shrinking.html)_
 
 One of my responsibilities as a presales engineer at Elasticsearch is to help prospective users of the ELK stack figure out how many and what kind of servers they'll need to buy to support their requirements. Production deployments of the ELK stack vary significantly. Some examples of use cases I've spoken to people about include:
 
