@@ -4,8 +4,6 @@ title: Hardware sizing or "How many servers do I *really* need?"
 tags: [elasticsearch]
 ---
 
-# Hardware sizing for storage
-
 ![expanding_illusion](/images/expanding.gif)![shrinking_illusion](/images/shrinking.gif) 
 _Is my data going to get bigger or smaller? Image credit: [amazingillusions.blogspot.com](http://amazingillusions.blogspot.com/2007/07/expanding-and-shrinking.html)_
 
