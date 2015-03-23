@@ -16,7 +16,7 @@ What I'd like to propose is that if more companies hire people with the assumpti
 
 Jeff Atwood, formerly of Stack Exchange, published a blog post back in 2010 talking about how Stack Exchange decided to embrace remote work as a first class work option:
 
-[http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
+[http://blog.codinghorror.com/on-working-remotely/](http://blog.codinghorror.com/on-working-remotely/)
 
 Stack Exchange wrote about it again in 2013, this time on their blog, to say that they still believe in remote work:
 
